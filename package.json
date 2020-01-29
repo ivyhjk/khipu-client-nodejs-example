@@ -1,0 +1,23 @@
+{
+  "name": "khipu-client-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "example": "ts-node -r dotenv/config src/index.ts"
+  },
+  "author": {
+    "name": "Elvis Munoz F.",
+    "email": "elvis.munoz.f@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "khipu-client": "^1.0.0-RC"
+  },
+  "devDependencies": {
+    "@types/node": "^13.5.1",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
+}

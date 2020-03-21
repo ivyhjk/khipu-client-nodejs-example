@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "khipu-client": "^1.0.0-RC"
+    "khipu-client": "^1.0.0-RC.3"
   },
   "devDependencies": {
     "@types/node": "^13.5.1",

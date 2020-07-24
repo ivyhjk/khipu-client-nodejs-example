@@ -16,7 +16,7 @@
     "khipu-client": "^1.0.0-RC.4"
   },
   "devDependencies": {
-    "@types/node": "^14.0.24",
+    "@types/node": "^14.0.25",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.7"
   }

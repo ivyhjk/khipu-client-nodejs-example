@@ -1,0 +1,17 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "09:00"
+  open-pull-requests-limit: 10
+  reviewers:
+  - ivyhjk
+  assignees:
+  - ivyhjk
+  ignore:
+  - dependency-name: "@types/node"
+    versions:
+    - 14.14.36
+    - 15.0.0

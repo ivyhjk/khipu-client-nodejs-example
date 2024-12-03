@@ -12,7 +12,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.4.6",
     "khipu-client": "^1.1.0"
   },
   "devDependencies": {
